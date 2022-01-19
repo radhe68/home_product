@@ -1,0 +1,18 @@
+{
+    "ads_status": "on",
+    "ads_second": 21,
+    "data": {
+        "native": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.Native",
+        "appopen": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.AppOpen",
+        "banner": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.Banner",
+        "interstitial": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.Interstitial2",
+        "ads_click": "3",
+        "is_guide": "true",
+        "is_launch": "false",
+        "is_rectbanner": "false",
+        "is_splashinter": "true",
+        "isappid": "hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
+        "isapplive": "true",
+        "privacy_policy": "https://appfest1994.blogspot.com/2019/08/privacy-policy.html"
+    }
+}
