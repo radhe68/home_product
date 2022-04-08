@@ -1,0 +1,71 @@
+{
+  "data": {
+    "languages": [
+      {
+        "code": "2",
+        "name": "English",
+        "isactive": "true"
+      },
+      {
+        "code": "1",
+        "name": "हिन्दी",
+        "isactive": "true"
+      },
+      {
+        "code": "3",
+        "name": "ગુજરાતી",
+        "isactive": "true"
+      },
+      {
+        "code": "4",
+        "name": "বাংলা",
+        "isactive": "true"
+      },
+      {
+        "code": "5",
+        "name": "ಕನ್ನಡ",
+        "isactive": "true"
+      },
+      {
+        "code": "6",
+        "name": "മലയാളം",
+        "isactive": "true"
+      },
+      {
+        "code": "7",
+        "name": "தமிழ்",
+        "isactive": "true"
+      },
+      {
+        "code": "8",
+        "name": "తెలుగు",
+        "isactive": "true"
+      }
+    ],
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "appopen": "ca-app-pub-3940256099942544/3419835294",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "ads_click": "3",
+    "is_open_active": "true",
+    "is_guide": "true",
+    "is_guide_ins_ads": "false",
+    "is_language_ins_ads": "false",
+    "is_lifeline_ins_ads": "false",
+    "is_scorescreen_ins_ads": "false",
+    "is_leaderbordscreen_ins_ads": "false",
+    "is_native_video": "false",
+    "symbol": "₹",
+    "ins_counter": "3",
+    "is_active": "true",
+    "show_app_new_dialog": "false",
+    "new_app_url": "https://play.google.com/store/apps/details?id=com.gk.carorpati.quiz",
+    "db_url": "https://codexhitenp.github.io/data/dbdata.zip",
+    "db_version": "1.0",
+    "privacy_policy": "https://codexhitenp.github.io/data/kbc_privacy.html",
+    "disclaimer_title": "Disclaimer",
+    "disclaimer": "This game does not represent any official tv channel and we do not provide any real cash or cheque through this game. This is a simple Quiz type game only made for purpose of improve general knowledge of our users. Drop us an email if you have any dispute.",
+    "note": "KBC in Hindi has been launched successfully here with latest general knowledge questions for new season. If you don't know answer then don't worry. We will tell you right answer. We will update questions at least once in month, so you only receive new questions. KBC play alone In Hindi will ask questions from Films, Current affairs, and all the fields like Mythology, Astrology, Geography, Astronomy, Maths, Reasoning and Biology."
+  }
+}
